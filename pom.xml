@@ -75,7 +75,7 @@
   <configuration>
 	<archive>
 	<manifest>
-		<mainClass>projectname.App</mainClass>
+		<mainClass>cgi.App</mainClass>
 	</manifest>
 	</archive>
   </configuration>       
